@@ -4,5 +4,5 @@ This repository contains toolkits that help set up rosetta environments, includi
 
 Currently the following aspects of rosetta are supported
 
-## ddg
+- Flex ddg 
 
